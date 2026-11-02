@@ -1,14 +1,14 @@
 # Submit-Android
 
-# is a public conference where the residents can report their grieviances and awaits for the admin response
+# is a public open reporting where the residents can report their grieviances and awaits for the admin response
 
 
 
-# installation guide
+# Installation guide
 
 # Component Configuration
 
-1 
+1  <br>
 2  -Operating system: Windows 10 64-bit or higher
 3  -Editor: Visual Studio Code
 4  -Language / UI: Kotlin / Android XML
