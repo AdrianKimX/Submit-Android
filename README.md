@@ -1,11 +1,12 @@
+<style>
+
+
+</style>
+
+
 # Submit-Android
 
-# is a public open reporting where the residents can report their grieviances and awaits for the admin response
-
-
-
-
-
+ <h5>-is a public open reporting where the residents can report their grieviances and awaits for the admin response</h5>
 
 
 
@@ -26,5 +27,5 @@ Build output: Debug APK<br>
 Test device: Android phones<br>
 Project directory C:<br>
 </div>
-The Gradle Wrapper (gradlew.bat) downloads and uses Gradle 8.11.1 by itself, so a global Gradle install in
-PATH is not required.
+<b>The Gradle Wrapper (gradlew.bat) downloads and uses Gradle 8.11.1 by itself, so a global Gradle install in
+PATH is not required.</b>
