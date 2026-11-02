@@ -21,7 +21,7 @@ class MainActivity : Activity() {
         )
 
         button.setOnClickListener {
-            message.text = "Hello from Kotlin!"
+            message.text = "Hello Kim!"
         }
     }
 }
