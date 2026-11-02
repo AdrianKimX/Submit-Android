@@ -29,7 +29,7 @@ class MainActivity : Activity() {
 
         button.setOnClickListener {
      val value = input.text.toString()
-            message.text = "Hello $value" 
+            message.text = "Hello $value, your message was sent, wait for response thanks for waiting" 
         }
     }
 }
