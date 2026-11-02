@@ -1,16 +1,12 @@
-<style>
-
-
-</style>
 
 
 # Submit-Android
 
- <h5>-is a public open reporting where the residents can report their grieviances and awaits for the admin response</h5>
+ <h3>-is a public open reporting where the residents can report their grieviances and awaits for the admin response</h3>
 
 
 
-# Installation guide
+<h4>  Installation guide  </h4>
 
 <h4> Component Configuration </h4>
 <div class='components'>
