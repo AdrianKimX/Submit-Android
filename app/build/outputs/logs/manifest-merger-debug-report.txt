@@ -1,0 +1,49 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Cloud Z\Submit-Android\app\src\main\AndroidManifest.xml:3:1-25:12
+INJECTED from D:\Cloud Z\Submit-Android\app\src\main\AndroidManifest.xml:3:1-25:12
+INJECTED from D:\Cloud Z\Submit-Android\app\src\main\AndroidManifest.xml:3:1-25:12
+INJECTED from D:\Cloud Z\Submit-Android\app\src\main\AndroidManifest.xml:3:1-25:12
+	package
+		INJECTED from D:\Cloud Z\Submit-Android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Cloud Z\Submit-Android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Cloud Z\Submit-Android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Cloud Z\Submit-Android\app\src\main\AndroidManifest.xml:3:11-69
+application
+ADDED from D:\Cloud Z\Submit-Android\app\src\main\AndroidManifest.xml:5:5-23:19
+INJECTED from D:\Cloud Z\Submit-Android\app\src\main\AndroidManifest.xml:5:5-23:19
+	android:extractNativeLibs
+		INJECTED from D:\Cloud Z\Submit-Android\app\src\main\AndroidManifest.xml
+	android:label
+		ADDED from D:\Cloud Z\Submit-Android\app\src\main\AndroidManifest.xml:7:9-37
+	android:allowBackup
+		ADDED from D:\Cloud Z\Submit-Android\app\src\main\AndroidManifest.xml:8:9-36
+	android:theme
+		ADDED from D:\Cloud Z\Submit-Android\app\src\main\AndroidManifest.xml:6:9-72
+activity#com.example.myfirstapp.MainActivity
+ADDED from D:\Cloud Z\Submit-Android\app\src\main\AndroidManifest.xml:10:9-21:20
+	android:exported
+		ADDED from D:\Cloud Z\Submit-Android\app\src\main\AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from D:\Cloud Z\Submit-Android\app\src\main\AndroidManifest.xml:11:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Cloud Z\Submit-Android\app\src\main\AndroidManifest.xml:14:13-19:29
+action#android.intent.action.MAIN
+ADDED from D:\Cloud Z\Submit-Android\app\src\main\AndroidManifest.xml:15:17-68
+	android:name
+		ADDED from D:\Cloud Z\Submit-Android\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Cloud Z\Submit-Android\app\src\main\AndroidManifest.xml:17:17-76
+	android:name
+		ADDED from D:\Cloud Z\Submit-Android\app\src\main\AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from D:\Cloud Z\Submit-Android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Cloud Z\Submit-Android\app\src\main\AndroidManifest.xml
+INJECTED from D:\Cloud Z\Submit-Android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Cloud Z\Submit-Android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Cloud Z\Submit-Android\app\src\main\AndroidManifest.xml

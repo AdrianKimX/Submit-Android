@@ -1,0 +1,7 @@
+com.example.myfirstapp-pngs-0 D:\Cloud Z\Submit-Android\app\build\generated\res\pngs\debug
+com.example.myfirstapp-resValues-1 D:\Cloud Z\Submit-Android\app\build\generated\res\resValues\debug
+com.example.myfirstapp-packageDebugResources-2 D:\Cloud Z\Submit-Android\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.myfirstapp-packageDebugResources-3 D:\Cloud Z\Submit-Android\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.myfirstapp-debug-4 D:\Cloud Z\Submit-Android\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.myfirstapp-debug-5 D:\Cloud Z\Submit-Android\app\src\debug\res
+com.example.myfirstapp-main-6 D:\Cloud Z\Submit-Android\app\src\main\res
