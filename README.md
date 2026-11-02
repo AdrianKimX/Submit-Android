@@ -32,3 +32,48 @@ code --install-extension vscjava.vscode-java-pack<br>
 code --install-extension vscjava.vscode-gradle<br>
 code --install-extension redhat.vscode-xml<br>
 code --install-extension usernamehw.errorlens<br>
+
+1. Kotlin
+
+Publisher: fwcd
+
+Kotlin language support, syntax highlighting, and code assistance.
+
+fwcd.kotlin<br>
+
+
+2. Extension Pack for Java
+
+Publisher: Microsoft
+
+Java language support, debugging, project management, and development tools.
+
+vscjava.vscode-java-pack<br>
+
+
+
+3. Gradle for Java
+
+Publisher: Microsoft
+
+Gradle task execution and project management.
+
+vscjava.vscode-gradle<br>
+
+
+4. XML
+
+Publisher: Red Hat
+
+XML syntax highlighting, formatting, validation, and autocomplete. Useful for Android layouts such as activity_main.xml.
+
+redhat.vscode-xml<br>
+
+
+5. Error Lens
+
+Publisher: Alexander
+
+Displays errors and warnings directly inside your code editor.
+
+usernamehw.errorlens<br>
