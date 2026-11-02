@@ -33,7 +33,7 @@ code --install-extension vscjava.vscode-gradle<br>
 code --install-extension redhat.vscode-xml<br>
 code --install-extension usernamehw.errorlens<br>
 
-1. Kotlin
+1.<b> Kotlin</b>
 
 Publisher: fwcd
 
@@ -42,7 +42,7 @@ Kotlin language support, syntax highlighting, and code assistance.
 fwcd.kotlin<br>
 
 
-2. Extension Pack for Java
+2. <b>Extension Pack for Java</b>
 
 Publisher: Microsoft
 
@@ -52,7 +52,7 @@ vscjava.vscode-java-pack<br>
 
 
 
-3. Gradle for Java
+3.<b> Gradle for Java</b>
 
 Publisher: Microsoft
 
@@ -61,7 +61,7 @@ Gradle task execution and project management.
 vscjava.vscode-gradle<br>
 
 
-4. XML
+4. <b>XML</b>
 
 Publisher: Red Hat
 
@@ -70,7 +70,7 @@ XML syntax highlighting, formatting, validation, and autocomplete. Useful for An
 redhat.vscode-xml<br>
 
 
-5. Error Lens
+5. <b>Error Lens</b>
 
 Publisher: Alexander
 
