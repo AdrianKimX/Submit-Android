@@ -18,6 +18,13 @@
         android:textStyle="bold"
         android:textColor="#222222"/>
 
+              <EditText
+    android:id="@+id/inputField"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:hint="Enter something"
+    android:inputType="text" />
+
     <TextView
         android:id="@+id/message"
         android:layout_width="wrap_content"
@@ -26,6 +33,9 @@
         android:text="Welcome to Kotlin!"
         android:textSize="18sp"
         android:textColor="#555555"/>
+
+  
+
 
     <Button
         android:id="@+id/btnClick"

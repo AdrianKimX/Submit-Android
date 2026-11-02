@@ -1,4 +1,5 @@
+com.example.myfirstapp:id/title = 0x7f010003
+com.example.myfirstapp:id/message = 0x7f010002
 com.example.myfirstapp:layout/activity_main = 0x7f020000
-com.example.myfirstapp:id/title = 0x7f010002
-com.example.myfirstapp:id/message = 0x7f010001
+com.example.myfirstapp:id/inputField = 0x7f010001
 com.example.myfirstapp:id/btnClick = 0x7f010000

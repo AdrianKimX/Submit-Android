@@ -4,6 +4,7 @@ import android.app.Activity
 import android.os.Bundle
 import android.widget.Button
 import android.widget.TextView
+import android.widget.EditText
 
 class MainActivity : Activity() {
 
@@ -11,6 +12,10 @@ class MainActivity : Activity() {
         super.onCreate(savedInstanceState)
 
         setContentView(R.layout.activity_main)
+
+
+   val input = findViewById<EditText>(R.id.inputField)
+      
 
         val message = findViewById<TextView>(
             R.id.message
@@ -20,8 +25,11 @@ class MainActivity : Activity() {
             R.id.btnClick
         )
 
+     
+
         button.setOnClickListener {
-            message.text = "Hello Kim!"
+     val value = input.text.toString()
+            message.text = "Hello $value" 
         }
     }
 }

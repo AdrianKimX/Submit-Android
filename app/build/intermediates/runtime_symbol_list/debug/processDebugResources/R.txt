@@ -1,4 +1,5 @@
 int id btnClick 0x7f010000
-int id message 0x7f010001
-int id title 0x7f010002
+int id inputField 0x7f010001
+int id message 0x7f010002
+int id title 0x7f010003
 int layout activity_main 0x7f020000
