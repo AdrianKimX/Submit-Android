@@ -25,3 +25,10 @@ Project directory C:<br>
 </div>
 <b>The Gradle Wrapper (gradlew.bat) downloads and uses Gradle 8.11.1 by itself, so a global Gradle install in
 PATH is not required.</b>
+
+<h4>VS Code required Extensions</h4>
+code --install-extension fwcd.kotlin<br>
+code --install-extension vscjava.vscode-java-pack<br>
+code --install-extension vscjava.vscode-gradle<br>
+code --install-extension redhat.vscode-xml<br>
+code --install-extension usernamehw.errorlens<br>
