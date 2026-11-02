@@ -11,7 +11,7 @@
 
 # Installation guide
 
-# Component Configuration
+<h4> Component Configuration </h4>
 <div class='components'>
  
 Operating system: Windows 10 64-bit or higher<br>
