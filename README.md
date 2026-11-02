@@ -27,12 +27,15 @@ Project directory C:<br>
 PATH is not required.</b>
 
 <h4>VS Code required Extensions</h4>
+<div style='color:blue;'>
 code --install-extension fwcd.kotlin<br>
 code --install-extension vscjava.vscode-java-pack<br>
 code --install-extension vscjava.vscode-gradle<br>
 code --install-extension redhat.vscode-xml<br>
 code --install-extension usernamehw.errorlens<br>
+</div>
 
+<h4>Extension Info</h4>
 1.<b> Kotlin</b>
 
 Publisher: fwcd
