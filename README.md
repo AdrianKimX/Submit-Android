@@ -80,3 +80,10 @@ Publisher: Alexander
 Displays errors and warnings directly inside your code editor.
 
 usernamehw.errorlens<br>
+
+
+Command ps for building the apk:
+
+.\gradlew.bat clean   to cleanor remove the current built app                                    
+.\gradlew.bat assembleDebug    to debug and build the apk
+adb install -r ".\app\build\outputs\apk\debug\app-debug.apk"  to install it on adb connected android phone

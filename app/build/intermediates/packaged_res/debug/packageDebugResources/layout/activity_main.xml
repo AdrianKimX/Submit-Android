@@ -13,7 +13,7 @@
         android:id="@+id/title"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="My First Android App"
+        android:text="Submit"
         android:textSize="24sp"
         android:textStyle="bold"
         android:textColor="#222222"/>
@@ -22,7 +22,14 @@
     android:id="@+id/inputField"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:hint="Enter something"
+    android:hint="Enter your name"
+    android:inputType="text" />
+
+     <EditText
+    android:id="@+id/inputField"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:hint="Enter your report"
     android:inputType="text" />
 
     <TextView
@@ -30,7 +37,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
-        android:text="Welcome to Kotlin!"
+        android:text="Welcome to Submit!"
         android:textSize="18sp"
         android:textColor="#555555"/>
 
@@ -42,6 +49,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="24dp"
-        android:text="Click Me"/>
+        android:text="Submit"/>
 
 </LinearLayout>
